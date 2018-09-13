@@ -8,7 +8,7 @@ public class FileQues
 
 	{
 
-		File f = new File("C:\Users\HARMAN TAKKAR\Desktop\ASSIGNMENTS java\Assignment 9 java");
+		File f = new File("abc.txt");
 
 		
 
